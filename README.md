@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-A simple and efficient desktop application built with Python and Tkinter to index and search for PDF documents within a nested folder structure. The tool is designed to easily navigate historical archives, assuming a hierarchy of `Municipality/Building/Document.pdf`.
+A simple and efficient desktop application built with Python, Tkinter and SQLite to index and search for PDF documents within a nested folder structure. The tool is designed to easily navigate historical archives, assuming a hierarchy of `Municipality/Building/Document.pdf`.
 ---
 <img width="1235" height="907" alt="image" src="https://github.com/user-attachments/assets/081ca0e8-8d8a-4c73-a8cc-e128b7ad5141" />
 ---
