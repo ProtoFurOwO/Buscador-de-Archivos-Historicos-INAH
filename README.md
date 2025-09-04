@@ -8,22 +8,8 @@ The Tkinter library (usually included in the standard Python installation).
 How It Works
 The application assumes that the PDF files are organized in a hierarchical folder structure:
 
-Root_Folder
-│
-└───Municipality_A
-│   │
-│   └───Building_X
-│   │   │   document1.pdf
-│   │   │   document2.pdf
-│   │
-│   └───Building_Y
-│       │   document3.pdf
-│
-└───Municipality_B
-    │
-    └───Building_Z
-        │   document4.pdf
-        │   document5.pdf
+<img width="450" height="403" alt="image" src="https://github.com/user-attachments/assets/53eb7c7f-6602-49ac-9f1a-36370ae5daa6" />
+
 When you click "Re-Index", the program scans all these folders, extracts the Municipality and Building/Place from the path, and saves this information along with the filename into an inah_documentos.db database.
 
 Usage Instructions
